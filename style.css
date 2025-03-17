@@ -705,17 +705,18 @@ html, body {
 .rectangle-8 {
   background: #be0822;
   border-radius: 15px;
-  width: 640px;
-  height: 480px;
+  width: 816px;
+  height: 470px;
   position: absolute;
-  left: 1015px;
+  left: 1015px; 
   top: 319px;
 }
+/* Frame of camera */
 .rectangle-13 {
   background: #000000;
   border-radius: 7.73px;
-  width: 625px;
-  height: 463px;
+  width: 640px; /* must align with camera frame */
+  height: 360px;
   position: absolute;
   left: 1022px;
   top: 329px;
@@ -733,7 +734,7 @@ html, body {
 .rectangle-4 {
   background: #f0b3ba;
   border-radius: 15px;
-  width: 970px;
+  width: 1035px;
   height: 199px;
   position: absolute;
   left: 795px;
@@ -1020,7 +1021,7 @@ html, body {
 .rectangle-52 {
   background: #fd9898;
   border-radius: 15px;
-  width: 158px;
+  width: 228px;
   height: 139.4px;
   position: absolute;
   left: 1602px;
@@ -1030,7 +1031,7 @@ html, body {
   width: 142px;
   height: 142px;
   position: absolute;
-  left: 1606.99px;
+  left: 1646.99px;
   top: 840px;
   object-fit: cover;
   aspect-ratio: 1;

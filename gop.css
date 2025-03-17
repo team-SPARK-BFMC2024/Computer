@@ -141,11 +141,11 @@
  * Style cho kết nối camera Jetson
  */
 
-/* Container chính cho camera */
+/* Container chính cho camera - scale cái frame*/
 .jetson-camera-container {
     position: relative;
-    width: 100%;
-    height: 100%;
+    width: 125%;  
+    height: 125%;
     overflow: hidden;
     display: flex;
     flex-direction: column;
