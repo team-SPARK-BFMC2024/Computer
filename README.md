@@ -12,7 +12,7 @@ A modern web-based dashboard interface for controlling and monitoring Jetson-pow
 
 - Real-time camera feed via WebSocket connection
 - Multiple operation modes (stop/manual/legacy/auto)
-- Speed gauge with real-time updates (-10 - 60 cm/s)
+- Speed gauge with real-time updates (-10 - 50 cm/s)
 - Steering angle control and visualization
 - Battery status monitoring
 
@@ -37,4 +37,7 @@ A modern web-based dashboard interface for controlling and monitoring Jetson-pow
 
 This project is part of the SPARK team's BFMC 2024 competition entry:
 https://github.com/team-SPARK-BFMC2024
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4c8e635f19d8456cb3457b33e265984bdf3e104c
