@@ -38,5 +38,3 @@ This project is part of the SPARK team's BFMC 2024 competition entry:
 https://github.com/team-SPARK-BFMC2024
 
 ---
-
-💻 Happy Coding! 🏆
