@@ -3,10 +3,9 @@
 A modern web-based dashboard interface for controlling and monitoring Jetson-powered vehicles.
 
 <div align="center">
-  <img src="https://github.com/team-SPARK-BFMC2024/Computer/raw/main/Jetson%20Dashboard%20Start.jpg" width="45%" alt="Jetson Dashboard Start"/>
-  &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github.com/team-SPARK-BFMC2024/Computer/raw/main/Jetson%20Dashboard.jpg" width="45%" alt="Jetson Dashboard"/>
-</div>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/team-SPARK-BFMC2024/Computer/raw/main/Jetson%20Dashboard%20Start.jpg" width="45%" alt="Jetson Dashboard Start"/></div>
 
 ## ✨ Features
 
